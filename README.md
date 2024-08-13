@@ -17,8 +17,6 @@ The project leverages two neural networks:
 The next steps include refining the model by selecting the AIF and PK parameter combination with the best loss during multiple runs, rather than relying on averaging.
 
 ## Usage
+Run the ipynb in google colab
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/aif-free-pk-estimation.git
-   cd aif-free-pk-estimation
+Please email alex.mertens@mail.utoronto.ca if there are questions are issues
